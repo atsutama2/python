@@ -1,4 +1,4 @@
-#!/Users/fujitayuya/tmp/python-study/venv/bin/python3
+#!/Users/yuya.fujita/PycharmProjects/pythonProject/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
